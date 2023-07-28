@@ -1,0 +1,69 @@
+.resolucion {
+    width: 99%;
+    text-align: center;
+}
+
+.screen {
+    font-size: 35px;
+
+    height: 50px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+
+
+/**Movil**/
+
+@media (max-width: 767px) {
+    .desktop {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+}
+
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+
+/**Escritorio**/
+
+@media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+.button_size {
+    font-size: 35px;
+    width: 50px;
+    height: 50px;
+}
+
+.schoonmaken {
+    font-size: 35px;
+    width: 250px;
+    height: 50px;
+}
+
+.space {
+    font-size: 35px;
+
+    width: 400px;
+    height: 50px;
+    margin-top: 10px;
+    }
+
