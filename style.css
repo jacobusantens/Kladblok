@@ -7,9 +7,31 @@
     font-size: 35px;
 
     height: 50px;
-    width: 350px;
+    width: 250px;
     margin-bottom: 10px;
 }
+
+.button_size {
+    font-size: 35px;
+    width: 50px;
+    height: 50px;
+}
+
+.schoonmaken {
+    font-size: 35px;
+    width: 250px;
+    height: 50px;
+}
+
+.space {
+    font-size: 35px;
+
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    }
+
+
 
 
 /**Movil**/
@@ -46,24 +68,4 @@
         display: none;
     }
 }
-
-.button_size {
-    font-size: 35px;
-    width: 50px;
-    height: 50px;
-}
-
-.schoonmaken {
-    font-size: 35px;
-    width: 250px;
-    height: 50px;
-}
-
-.space {
-    font-size: 35px;
-
-    width: 400px;
-    height: 50px;
-    margin-top: 10px;
-    }
 
