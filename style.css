@@ -14,7 +14,7 @@
 
 /**Movil**/
 
-@media (max-width: 767px) {
+@media (max-width: 719px) {
     .desktop {
         display: none;
     }
@@ -26,7 +26,7 @@
 
 /**Tablet**/
 
-@media (min-width: 768px) and (max-width: 990px) {
+@media (min-width: 720px) and (max-width: 990px) {
     .desktop {
         display: none;
     }
